@@ -1,2 +1,0 @@
-# Background-Selector
-Hello World!
